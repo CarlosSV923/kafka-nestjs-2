@@ -1,0 +1,7 @@
+configuration:
+  server:
+    port: 5000
+
+  cloud:
+    url: http://localhost:3000
+    
